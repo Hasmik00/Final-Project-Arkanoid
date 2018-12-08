@@ -1,0 +1,13 @@
+﻿body {
+    text-align: center;
+    background:rgba(189,235,225); 
+    background-image: url( "./resources/30.png"), url("./resources/26.png"), url("./resources/25.png");
+    background-repeat: no-repeat;
+    background-position: left bottom, top left, bottom right;
+}
+
+div .status {
+    font: bold 18px Arial;
+    color: cadetblue;
+    height: 40px;
+}
